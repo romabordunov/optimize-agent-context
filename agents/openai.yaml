@@ -1,0 +1,4 @@
+interface:
+  display_name: "Optimize Agent Context"
+  short_description: "Audit and reduce agent context safely"
+  default_prompt: "Use $optimize-agent-context to audit this workspace and reduce avoidable agent context without weakening safeguards."
